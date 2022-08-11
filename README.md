@@ -23,3 +23,5 @@ $: ln -s /usr/bin/timeisup  ~/timeisup/start
 ## Dependencies
 
 **notify-send** linux command
+
+**at** linux command
